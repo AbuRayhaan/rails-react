@@ -2,10 +2,6 @@
 
 A simple app that uses Rails for Backend and React for Frontend.
 
-### ORM Diagram:
-
-![diagram](https://user-images.githubusercontent.com/91697183/189308941-91fa037b-06e7-467f-827a-74951ac0e0f8.png)
-
 ## Built With
 
 - Ruby
