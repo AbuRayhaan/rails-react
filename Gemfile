@@ -75,6 +75,4 @@ gem 'webpacker'
 
 gem 'react-rails'
 
-gem 'jsbundling-rails'
-
 gem 'importmap-rails'
